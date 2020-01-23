@@ -1,3 +1,0 @@
-# "/send"
-# {"username": "", "text": ""}
-
